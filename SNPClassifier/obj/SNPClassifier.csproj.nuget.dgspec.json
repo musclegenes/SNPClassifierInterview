@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/simonburns/Code/fitnessgenes/SNPClassifier/SNPClassifier/SNPClassifier.csproj": {}
+    "/Users/fitnessgenes/FgInterview/SNPClassifierInterview/SNPClassifier/SNPClassifier.csproj": {}
   },
   "projects": {
-    "/Users/simonburns/Code/fitnessgenes/SNPClassifier/SNPClassifier/SNPClassifier.csproj": {
+    "/Users/fitnessgenes/FgInterview/SNPClassifierInterview/SNPClassifier/SNPClassifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simonburns/Code/fitnessgenes/SNPClassifier/SNPClassifier/SNPClassifier.csproj",
+        "projectUniqueName": "/Users/fitnessgenes/FgInterview/SNPClassifierInterview/SNPClassifier/SNPClassifier.csproj",
         "projectName": "SNPClassifier",
-        "projectPath": "/Users/simonburns/Code/fitnessgenes/SNPClassifier/SNPClassifier/SNPClassifier.csproj",
-        "packagesPath": "/Users/simonburns/.nuget/packages/",
-        "outputPath": "/Users/simonburns/Code/fitnessgenes/SNPClassifier/SNPClassifier/obj/",
+        "projectPath": "/Users/fitnessgenes/FgInterview/SNPClassifierInterview/SNPClassifier/SNPClassifier.csproj",
+        "packagesPath": "/Users/fitnessgenes/.nuget/packages/",
+        "outputPath": "/Users/fitnessgenes/FgInterview/SNPClassifierInterview/SNPClassifier/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/simonburns/.nuget/NuGet/NuGet.Config"
+          "/Users/fitnessgenes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -27,6 +27,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
@@ -70,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

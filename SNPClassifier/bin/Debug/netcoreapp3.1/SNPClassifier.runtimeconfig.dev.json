@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/simonburns/.dotnet/store/|arch|/|tfm|",
-      "/Users/simonburns/.nuget/packages",
+      "/Users/fitnessgenes/.dotnet/store/|arch|/|tfm|",
+      "/Users/fitnessgenes/.nuget/packages",
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
